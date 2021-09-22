@@ -9,7 +9,7 @@ public class Main {
         // final = tämän muuttujan arvo ei koskaan muuttu
         final String missX = "Elina"; 
 
-        String nimi = "Jaakko";
+        String nimi = "Mr. Papu";
 
         if (true){
 
